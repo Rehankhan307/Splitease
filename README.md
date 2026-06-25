@@ -19,12 +19,27 @@ A multi-group expense splitting web app built with vanilla HTML, CSS, and JavaSc
 [Try SplitEase Live](https://rehankhan307.github.io/Splitease/)
 
 ## Screenshots
-(Screenshot1.png)
-(Screenshot2.png)
-(Screenshot3.png)
-(Screenshot4.png)
-(Screenshot5.png)
+![Screenshot 1](Screenshot1.png)
 
+
+
+
+![Screenshot 2](Screenshot2.png)
+
+
+
+
+![Screenshot 3](Screenshot3.png)
+
+
+
+
+![Screenshot 4](Screenshot4.png)
+
+
+
+
+![Screenshot 5](Screenshot5.png)
 
 ## Author
 *Rehan Khan*  
