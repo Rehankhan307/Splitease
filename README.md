@@ -16,7 +16,7 @@ A multi-group expense splitting web app built with vanilla HTML, CSS, and JavaSc
 - JavaScript (Vanilla)
 
 ## Live Demo
-[Try SplitEase Live](https://your-live-link-here.com)
+[Try SplitEase Live](https://rehankhan307.github.io/Splitease/)
 
 ## Screenshots
 [Add a screenshot or two here once you have them]
